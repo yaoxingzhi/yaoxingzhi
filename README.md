@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaoxingzhi
 - 👀 I’m interested in playing basketball
 - 🌱 I’m currently learning Deep Learning and target detection with YOLO
-- 💞️ I’m just a new guy 
+- 💞️ I’m just a new
 - 📫 YOU CAN REACH ME BY EMAIL: yaoxingzhi1@163.com
 
 <!---
